@@ -20,26 +20,39 @@ After some initial failed attempts, I finally succeeded, and I would like to sha
 
 
 
-\#  Audio Player
+\# Mein Audio Player 🎧
 
 
 
 Hier ist ein Foto von meinem fertigen Projekt:
 
-
-
-!\[Vorschau von meinem Player](Player.png)
-
+!\[Vorschau von meinem Player](Player.jpg)
 
 
 
-
-1. Anzahl der Titel
-2. MP3 Name
-3. Equalizer
-4. Buttons << Back  Play/Pause  Vorward >>
+\## Features \& Funktionen
 
 
 
+\* \*\* Anzahl der Titel:\*\* Automatische Erkennung und Anzeige der geladenen Tracks von der SD-Karte.
 
+\* \*\* MP3-Name:\*\* Dynamischer Songtitel im Display (mit flüssiger Laufschrift).
+
+\* \*\* Equalizer:\*\* Animierte, echtzeitnahe Frequenzbänder, passend zum Takt der Musik.
+
+
+
+\## Steuerung (Buttons)
+
+\* `<< Back` – Vorheriger Titel in der Playlist
+
+\* `Play / Pause` – Musik anhalten und fortsetzen
+
+\* `Forward >>` – Nächster Titel in der Playlist
+
+
+
+\---
+
+\*Created by Onkel Kaktus\* 🌵
 
