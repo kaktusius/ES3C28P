@@ -26,7 +26,9 @@ After some initial failed attempts, I finally succeeded, and I would like to sha
 
 Hier ist ein Foto von meinem fertigen Projekt:
 
-!\[Vorschau von meinem Player](Player.jpg)
+
+
+<img src="Player.jpg" width="400">
 
 
 
